@@ -1,5 +1,14 @@
 {
- "assets": {},
+ "assets": {
+  "Road013B": "e59d5ff2481243f65346ba076c7f7e5ed9bfa413",
+  "Road013C": "f1a438a2948955a99949bdeb8a71c52bd1fe1c26",
+  "Road014A": "d7f887218cb286a745bb175f487b0a59a7a1fc00",
+  "Road014B": "835aed2298dbe0de3f47c55e580be5132de8c8f5",
+  "Road014C": "6c9b95187896ead725e77444a6fc3ce53787549e",
+  "Road015A": "ebe4a742da13cbc31c9219e931ef448631745229",
+  "Road015B": "016dde4751605f91dad199d30d8a3cff6615c32d",
+  "Road015C": "d0dd6fc8b4c1a5f60d7e2dcf53b8bee9ca5c728a"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
